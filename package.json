@@ -1,0 +1,23 @@
+{
+  "name": "npm_create_nc",
+  "version": "1.0.0",
+  "description": "display hello world",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunnykumarsam/npm_create.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "sunnykumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sunnykumarsam/npm_create/issues"
+  },
+  "homepage": "https://github.com/sunnykumarsam/npm_create#readme"
+}
